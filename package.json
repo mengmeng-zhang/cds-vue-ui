@@ -7,11 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "cds"
+    "cds",
+    "vue",
+    "ui"
   ],
   "author": "mengmeng-zhang",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0"
+    "element-ui": "^2.0.1",
+    "vue": "^2.5.2"
   }
 }
